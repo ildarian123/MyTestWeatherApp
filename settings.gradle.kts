@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyTestWeatherApp"
-include ':app'
+rootProject.name = "WeatherApp"
+include(":app")
+ 
